@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3>Python developer</h3>
 
 <!--
 **ksmak/ksmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+ <img height="96" width="96" src="https://cdn.simpleicons.org/python" />
+</div>
