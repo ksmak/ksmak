@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
- <img height="96" width="96" src="https://cdn.simpleicons.org/python" />
+ <img height="64" width="64" src="https://cdn.simpleicons.org/python" />
+ <img height="64" width="64" src="https://cdn.simpleicons.org/react" />
 </div>
