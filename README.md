@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3>Python developer</h3>
+<h3>Python, React developer</h3>
 
 <!--
 **ksmak/ksmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
  <img height="64" width="64" src="https://cdn.simpleicons.org/python" />
+ &nbsp
  <img height="64" width="64" src="https://cdn.simpleicons.org/react" />
 </div>
